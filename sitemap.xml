@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://sand94.github.io/mind-site/notes/</loc>
+         <lastmod>2023-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://sand94.github.io/mind-site/notes/202209231143/</loc>
+         <lastmod>2023-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://sand94.github.io/mind-site/notes/202210010817/</loc>
-         <lastmod>2023-01-09</lastmod>
+         <lastmod>2023-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
